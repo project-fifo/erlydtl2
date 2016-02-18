@@ -1,3 +1,7 @@
+Note
+====
+This is a form of ErlyDTL wich drops backwards compatibiltiy with erlang pre R18 to get around the merl nightmare...
+
 ErlyDTL [![Build Status](https://travis-ci.org/erlydtl/erlydtl.png?branch=master)](https://travis-ci.org/erlydtl/erlydtl)
 =======
 
